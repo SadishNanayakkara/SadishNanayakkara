@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Sadish%20Nanayakkara&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Full-Stack%20Developer%20|%20MERN%20Specialist&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=250&section=header&text=Sadish%20Nanayakkara&fontSize=70&animation=fadeIn&fontAlignY=35&fontAlign=50&desc=Full-Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
@@ -9,25 +9,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;Software+Engineering+Undergraduate;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;Software+Engineering+Undergraduate;AI+and+IoT+Enthusiast" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full-stack Developer** and **AI Engineer** with a background in **Mathematics & Computer Science**. I specialize in building production-ready SaaS platforms that leverage **LLMs, RAG, and Real-time Data**.
+I am a passionate **Full-Stack Developer** and **Software Engineering Undergraduate** at the **University of Sri Jayewardenepura**. I specialize in building scalable web applications and exploring the intersection of AI and hardware.
 
-* 🚀 **Currently Working On:** AI-Powered PDF Chat SaaS & Sustainable Food Marketplaces.
-* 🌱 **Learning:** Distributed Systems and Advanced Cloud Patterns.
-* 🎯 **Goal:** Building high-impact tech that scales.
+* 🚀 **Current Projects:** Building AI-integrated smart systems and high-performance web platforms.
+* 💻 **Expertise:** Specialized in **MERN Stack** (MongoDB, Express, React, Node.js).
+* 🔧 **Interests:** Deep learning, IoT architecture, and modern UI/UX patterns (Glassmorphism & Dark Themes).
+* 🎯 **Goal:** To create innovative tech solutions that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,mongodb,postgres,prisma,redux,tailwind,aws,docker,py,tensorflow,java,matlab,arduino,linux,selenium&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vite,js,ts,py,arduino,cpp,linux,aws,docker,github,figma&perline=10" />
 </p>
 
 ---
@@ -37,26 +38,26 @@ I am a **Full-stack Developer** and **AI Engineer** with a background in **Mathe
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Chat with PDF</h3>
-      <p align="center">Next.js | Pinecone | OpenAI</p>
-      <p>SaaS enabling context-aware document interaction via RAG. Features vector embeddings and Stripe subscription management.</p>
+      <h3 align="center">💡 Lumina (Smart Lamp)</h3>
+      <p align="center">ESP32 | Gemini API | Hand Tracking</p>
+      <p>An AI-powered smart table lamp that uses hand-tracking for controls and features a live chat interface using Google Gemini API.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🍽️ SaveFresh</h3>
-      <p align="center">Supabase | Redux | Tailwind</p>
-      <p>Full-stack marketplace connecting consumers with discounted leftover food. Real-time data streaming and mobile-first design.</p>
+      <h3 align="center">📄 DocuTrace</h3>
+      <p align="center">React | Vite | TailwindCSS</p>
+      <p>A modern Document Tracking System built for speed and efficiency. Focused on seamless UI/UX and real-time status management.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖐️ Sign Language Converter</h3>
-      <p align="center">Python | C | Sensors</p>
-      <p>IoT tool converting glove gestures to text/speech in real-time using custom sensor integration.</p>
+      <h3 align="center">🌐 Personal Portfolio</h3>
+      <p align="center">React | Framer Motion | Glossy UI</p>
+      <p>A professional showcase of my journey as a developer, featuring glassmorphism design and interactive components.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏆 FreshPlus</h3>
-      <p align="center">Data Analytics | Supply Chain</p>
-      <p>Optimization algorithm for perishable food supply chains to minimize spoilage and maximize efficiency.</p>
+      <h3 align="center">📱 Mobile Wallet App</h3>
+      <p align="center">JavaScript | Mobile-First Design</p>
+      <p>A digital wallet concept focusing on secure transactions and a clean user experience for mobile users.</p>
     </td>
   </tr>
 </table>
@@ -68,11 +69,6 @@ I am a **Full-stack Developer** and **AI Engineer** with a background in **Mathe
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SadishNanayakkara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadishNanayakkara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SadishNanayakkara&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=SadishNanayakkara&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="48%" />
 </p>
 
 <p align="center">
